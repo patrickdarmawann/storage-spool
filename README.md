@@ -4,9 +4,6 @@ Parametric Storage Spool
 https://www.thingiverse.com/thing:4376665
 patrickdarmawann
 
-
-3D Printed Container using eSun filament spool
-
 Summary
 
 Hi, I'm Patrick and this is my very first thing on Thingiverse. This is a storage system solution for those who used the eSun Filament, especially the clear spool one. I have a lot of these laying around and want to make use of them. At first, I made the 3D model of the spool using Fusion 360, and then made the storage accordingly. There’s some part of these storage solution including :
